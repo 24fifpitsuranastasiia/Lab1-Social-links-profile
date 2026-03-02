@@ -25,6 +25,7 @@ body {
     height: 80px;
     border-radius: 50%;
     margin-top: 2rem;
+    object-fit: cover;
 }
 
 .profile-text {
@@ -79,5 +80,4 @@ body {
 .links-menu li a:hover {
     background-color: #c5f82a;
     color: #141414;
-
 }
